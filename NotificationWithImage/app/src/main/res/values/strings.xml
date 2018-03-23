@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationWithImage</string>
+    <string name="action_settings">Settings</string>
+</resources>
